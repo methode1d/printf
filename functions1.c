@@ -4,7 +4,7 @@
 /**
  * print_unsigned - Prints an unsigned number functions 1
  * @types: List a of arguments
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to handle print winebald
  * @flags:  Calculates active flags
  * @width: get width
  * @precision: Precision specification
