@@ -3,7 +3,7 @@
 /****************** PRINT POINTER ******************/
 /**
  * print_pointer - Prints the value of a pointer variable
- * @types: List a of arguments
+ * @types: List a of arguments here I did an edit for functinos2
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: get width
